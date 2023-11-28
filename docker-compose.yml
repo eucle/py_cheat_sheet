@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  byte_of_python_bot:
+    image: eucle/byte-of-python-bot
+    
